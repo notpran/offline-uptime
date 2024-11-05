@@ -1,0 +1,5 @@
+# Hi! welcome to the config file!
+# PLEASE DO NOT TOUCH!
+config-version: 1
+# Edit how many second should the plugin wait before starting the uptime counter
+start-time-after: 0
